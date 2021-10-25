@@ -1,5 +1,7 @@
 # chat-server
 
+Bidirectional Communication using Socket IO
+
 Run npm install i.e installs all the required modules used
 
 then npm start i.e starts project on 3000 port
